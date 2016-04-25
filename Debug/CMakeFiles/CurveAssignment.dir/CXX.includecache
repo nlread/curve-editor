@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ned/Documents/_Programming/C++/_Graphics/CurveAssignment/float2.cpp
+stdlib.h
+-
+math.h
+-
+float2.h
+C:/Users/Ned/Documents/_Programming/C++/_Graphics/CurveAssignment/float2.h
+
+C:/Users/Ned/Documents/_Programming/C++/_Graphics/CurveAssignment/float2.h
+
+C:/Users/Ned/Documents/_Programming/C++/_Graphics/CurveAssignment/main.cpp
+math.h
+-
+stdlib.h
+-
+iostream
+-
+cstdlib
+-
+cTime
+-
+stdio.h
+-
+float2.cpp
+C:/Users/Ned/Documents/_Programming/C++/_Graphics/CurveAssignment/float2.cpp
+GL/gl.h
+-
+GL/glu.h
+-
+GL/glut.h
+-
+windows.h
+-
+vector
+-
+
